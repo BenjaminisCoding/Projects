@@ -4,7 +4,7 @@
 * Projects: Reinforcement Learning on the game quarto!
   
 #### Machine Learning
-* HW on low rank approximation methods. 
+* HW on Low Rank Approximation Methods. 
 * Kaggle Challenge: Predicting Forest Types from Multiple Features. The goal of this competition was to develop a comprehensive pipeline that incorporates feature engineering, feature selection, model selection, and model tuning.
 
 #### Image Registration
