@@ -1,6 +1,7 @@
 <h1 align="center"> Assignments and Projects Realized During the Master Mathématiques, Vision, Apprentissage (MVA) at ENS Paris-Saclay </h1> 
 
-## First Semester
+#### Advanced learning for text and graph data ALTEGRAD (ALTEGRAD)
+* Assignments on Graph Neural Networks and the Manipulation of Large Language Models
 
 #### Convex Optimization (ALEXANDRE D'ASPREMONT)
 * HM1: Convexity, Conjugate Function
